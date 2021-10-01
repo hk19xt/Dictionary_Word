@@ -6,7 +6,7 @@ import java.util.Map;
 
 /*This class is the implementation class. 
 The user input string and the dictionary list will be inserted through the main class. 
-The for loop will check whether the input string can be separated by words reserved in the dictionary list. */
+The for loop will check whether the input string can be separated by words reserved in the dictionary list recursively. */
 
 public class Search_Words {
     
